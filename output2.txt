@@ -1,0 +1,4 @@
+Fred 15
+Bill 5
+Sue 8
+Mary -3

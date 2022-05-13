@@ -1,0 +1,4 @@
+Fred 5.60
+Bill 2.50
+Sue 7.60
+Mary -3.30
